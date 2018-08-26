@@ -1,0 +1,71 @@
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: none;
+}
+
+id#listprojects li {
+  margin: :20px;
+}
+
+.nav-tabs {
+  margin-bottom: 20px;
+}
+
+.jumbotron1{
+  background-size: cover;
+  background-image: url('https://i.ytimg.com/vi/YWFjLrB6p9I/maxresdefault.jpg');
+  height: 400px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron2{
+  background-size: cover;
+  background-image: url('http://www.amchameu.eu/sites/default/files/styles/committee_thumbnail/public/group/digital_economy.jpg?itok=zjQQEnBb');
+  height: 400px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron3{
+  background-size: auto;
+  background-image: url('https://res.cloudinary.com/simpleview/image/fetch/c_fill,f_auto,h_452,q_75,w_982/http://res.cloudinary.com/simpleview/image/upload/v1467065733/clients/lanecounty/uo_autzen_stadium_ducks_c9543f07-3dbb-497a-9d1c-9e7ab43688a4.jpg');
+  height: 400px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron4{
+  background-size: cover;
+  background-image: url('https://i.ytimg.com/vi/YWFjLrB6p9I/maxresdefault.jpg');
+  height: 400px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron5{
+  background-size: cover;
+  background-image: url('https://images.pexels.com/photos/164455/pexels-photo-164455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  height: 400px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.header {
+  text-align:bottom;
+}
+
+.row2 {
+  padding: 20px;
+}
